@@ -8,7 +8,7 @@ metadata:
     app.kubernetes.io/managed-by: kustomize
     app.kubernetes.io/name: cloud-centos-bootc-layered
     app.kubernetes.io/part-of: centos-bootc-layered
-  name: cloud-centos-bootc-layerefnyb
+  name: cloud-centos-bootc-layere3hbq
 spec:
   port:
     targetPort: 8080

@@ -12,7 +12,7 @@ spec:
       creationTimestamp: null
     spec:
       containers:
-      - image: quay.io/redhat-user-workloads/centos-bootc-tenant/centos-bootc-layered/cloud-centos-bootc-layered@sha256:76dcbc499057e361a62eec4a49b377290440eb5df9e76f15c78ed4682bef53a5
+      - image: quay.io/redhat-user-workloads/centos-bootc-tenant/centos-bootc-layered/cloud-centos-bootc-layered@sha256:1b0405db86929f0260ceaa40f74bc66fc53fd85134467b8c9f5c6d7ebf2fe9a8
         name: container-image
         resources: {}
 status: {}
